@@ -10,6 +10,6 @@ jobs:
           if [ -f "config.yaml" ]; then
             echo "::debug::File exists"
           else
-            echo "::Warning::File doesnt exist"
+            echo "::error::File doesnt exist"
           fi
       
