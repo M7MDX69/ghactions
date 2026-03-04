@@ -1,0 +1,19 @@
+{
+  "name": "ghactions",
+  "version": "1.0.0",
+  "main": "src/app.js",
+  "scripts": {
+    "test":"bash src/test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M7MDX69/ghactions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M7MDX69/ghactions/issues"
+  },
+  "homepage": "https://github.com/M7MDX69/ghactions#readme",
+  "description": ""
+}
